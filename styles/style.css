@@ -177,13 +177,13 @@ a {
 }
 
 .main-articles__item--1 {
-  background: url(/images/main-1.jpg) no-repeat center/cover;
+  background: url(images/main-1.jpg) no-repeat center/cover;
 }
 .main-articles__item--2 {
-  background: url(/images/main-2.jpg) no-repeat center/cover;
+  background: url(images/main-2.jpg) no-repeat center/cover;
 }
 .main-articles__item--3 {
-  background: url(/images/main-3.png) no-repeat center/cover;
+  background: url(images/main-3.png) no-repeat center/cover;
 }
 
 .main-articles__filter {
@@ -243,7 +243,7 @@ a {
   }
 
   .main-articles__orange-cover {
-    background: transparent url(/images/cover-gradient.png) no-repeat;
+    background: transparent url(images/cover-gradient.png) no-repeat;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -257,7 +257,7 @@ a {
     position: absolute;
     top: 2.4rem;
     left: 2.4rem;
-    background: transparent url(/images/tnw.svg) no-repeat;
+    background: transparent url(images/tnw.svg) no-repeat;
     width: 50%;
     height: 100%;
     max-height: 112px;
@@ -310,7 +310,7 @@ a {
 }
 
 .latest-news__img {
-  background: url(/images/latest-news.jpg);
+  background: url(images/latest-news.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -525,7 +525,7 @@ a {
 /* Section Popular */
 .section__popular {
   height: 65vw;
-  background: url(/images/section-popular.jpg) no-repeat center/cover;
+  background: url(images/section-popular.jpg) no-repeat center/cover;
   margin-bottom: 0.2rem;
 }
 
@@ -585,7 +585,7 @@ a {
 }
 
 .section__latest-img {
-  background: url(/images/section-latest.jpg) no-repeat center/cover;
+  background: url(images/section-latest.jpg) no-repeat center/cover;
 }
 
 .section__list-item {
@@ -687,7 +687,7 @@ a {
 }
 
 .latest-deals__item-img {
-  background: url(/images/latest-deal.jpg) no-repeat center/cover;
+  background: url(images/latest-deal.jpg) no-repeat center/cover;
 }
 
 .latest-deals__item-title {
